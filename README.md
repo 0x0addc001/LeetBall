@@ -18,4 +18,5 @@
 - Tennis
 - Basketball
 - Football
+- Running 2k
 
