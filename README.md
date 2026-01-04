@@ -20,3 +20,9 @@
 - Football
 - Running 2k
 
+### 20260104
+
+- Badminton
+- Table Tennis
+- Tennis
+- Running 2k
